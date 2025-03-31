@@ -1,0 +1,5 @@
+com\example\employee\controller\EmployeeController.class
+com\example\employee\EmployeeMicroserviceApplication.class
+com\example\employee\model\Employee.class
+com\example\employee\repository\EmployeeRepository.class
+com\example\employee\service\EmployeeService.class
